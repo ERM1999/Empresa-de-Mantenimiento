@@ -9,5 +9,7 @@ package servicio;
  * @author fani
  */
 public class classEjemplo {
-    
+    public static void main (String [] args ){
+    System.out.println("Holi");
+    }
 }
